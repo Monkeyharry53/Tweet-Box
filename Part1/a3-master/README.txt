@@ -1,21 +1,6 @@
-Student Name: Manjot Singh
-Username: msingh48@uoguelph.ca
-Student ID: 1141657
-Assignment Name: Assignment #3
-Date of submission: 22 March, 2021 (I Got Extension)
-Course: CIS*2500
+Tweet Box - Part 1
 
-(Copied from previous files)
-I have exclusive control over this submission via my password.
-By including this header comment, I certify that:
-1) I have read and understood the policy on academic integrity.
-2) I have completed Moodle's module on academic integrity.
-3) I have achieved at least 80% on the academic integrity quiz
-I assert that this work is my own. I have appropriate acknowledged
-any and all material that I have used, be it directly quoted or
-paraphrased. Furthermore, I certify that this assignment was written
-by me in its entirety.
-
+NOTE: This part contains the basic operations that can be performed on a tweet like create,delete, search and saving tweet to a file. 
 
 1)Compilation of this program is through makefile.
  'make' or 'make a3' will compile the make file and './a3' will run the makefile.
